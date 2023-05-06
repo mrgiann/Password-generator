@@ -1,1 +1,1 @@
-Archivo de python que genera una contraseña con letras, numeros y simbolos
+Password Generator is a Python project that generates random passwords of varying lengths and complexities. The user can enter the desired password length and select the types of characters to be included in the password, such as uppercase letters, lowercase letters, numbers, and symbols. The generated password is displayed on the screen and can be used for any security purpose that requires a strong password.
